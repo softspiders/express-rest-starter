@@ -1,2 +1,2 @@
 # express-rest-starter
-Minimalistic REST on Express starter
+Minimalistic REST-on-Express starter
