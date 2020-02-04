@@ -8,7 +8,6 @@ Minimalistic REST on Express starter
 
 ## Feature tags
 
-- browser
 - node
 - rest
 - express
@@ -39,8 +38,8 @@ npm i
 ## Run
 
 ```
-In Node.js: node index
-In browser - go to: http://localhost:4000/api
+In Node.js: npm start
+In browser - go to: http://localhost:3000/api
 ```
 
 ---

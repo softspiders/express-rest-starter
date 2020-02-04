@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "keywords": [
-  "browser",
   "node",
   "rest",
   "express",
