@@ -11,7 +11,6 @@ Minimalistic REST on Express starter
 - express
 - node
 - rest
-- softspiders
 - starter
 - template
 

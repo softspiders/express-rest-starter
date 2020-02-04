@@ -7,9 +7,10 @@
     "start": "node index.js"
   },
   "keywords": [
+  "express",
   "node",
   "rest",
-  "express",
+  "softspiders",
   "starter",
   "template"
   ],
