@@ -40,7 +40,7 @@ npm i
 
 ```
 In Node.js: node index
-In browser go to: http://localhost:4000/api
+In browser - go to: http://localhost:4000/api
 ```
 
 ---
