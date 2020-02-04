@@ -1,10 +1,7 @@
 SOFTSPIDERS
 
 # express-rest-starter
-
-Minimalistic REST on Express starter
-
----
+Minimalistic REST-on-Express starter
 
 ## Feature tags
 
@@ -47,4 +44,3 @@ In browser - go to: http://localhost:3000/api
 ### License
 
 Licensed under the [MIT license](./LICENSE). 
-
