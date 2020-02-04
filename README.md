@@ -8,9 +8,10 @@ Minimalistic REST on Express starter
 
 ## Feature tags
 
+- express
 - node
 - rest
-- express
+- softspiders
 - starter
 - template
 
