@@ -1,4 +1,4 @@
-SOFTSPIDERS
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # express-rest-starter
 Minimalistic REST-on-Express starter
