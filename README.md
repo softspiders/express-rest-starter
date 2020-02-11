@@ -22,6 +22,10 @@ Minimalistic REST-on-Express starter
 ## Direct ancestors
 - [HelloWorld in JavaScript](https://github.com/softspiders/javascript)
 
+
+## Direct ancestors
+- [rest-client-jest-starter](https://github.com/softspiders/rest-client-jest-starter)
+
 ---
 
 ## Install
